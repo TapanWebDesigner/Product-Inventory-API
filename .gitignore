@@ -1,0 +1,9 @@
+
+
+# dependencies
+
+/api
+/middleware
+/node_modules
+/routes
+.env
